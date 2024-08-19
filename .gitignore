@@ -1,0 +1,5 @@
+# Ignore config.json file
+
+
+# Ignore the venv directory
+venv/
